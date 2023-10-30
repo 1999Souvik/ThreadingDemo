@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\ThreadingDemo\bin\Debug\ThreadingDemo.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\ThreadingDemo\bin\Debug\ThreadingDemo.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\ThreadingDemo\bin\Debug\ThreadingDemo.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\ThreadingDemo\obj\Debug\ThreadingDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\ThreadingDemo\obj\Debug\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\ThreadingDemo\obj\Debug\ThreadingDemo.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\ThreadingDemo\obj\Debug\ThreadingDemo.pdb
